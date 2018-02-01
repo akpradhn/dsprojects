@@ -4,14 +4,14 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: '/dsprojects' # the subpath of your site, e.g. /blog
+baseurl: '/dsprojects/' # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: 'https://twitter.com/akpradhn' #if your site has a twitter account, enter it here
+site-twitter:  #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Amit Kumar Pradhan # add your name
 author-img: amitkp.jpg # add your photo
-about-author: I am a budding professional in Data Science focusing on Data Analysis, Visualisation and Predictive Modeling. I am a self-taught. # add description
+about-author: I am a budding professional in Data Science focusing on Data Analysis, Visualization and Predictive Modeling. I am a self-taught. # add description
 twitter: akpradhn # add your Twitter handle
 facebook: akpradhn # add your Facebook handle
 github: akpradhn # add your Github handle

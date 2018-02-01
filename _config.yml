@@ -11,12 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Amit Kumar Pradhan # add your name
 author-img: amitkp.jpg # add your photo
-about-author: xxxI am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
-github: artemsheludko # add your Github handle
-linkedin: # add your Linkedin handle
-email: # add your Email address
+about-author: I am a Data Science learning focusing on front-end development. Always hungry to keep learning. # add description
+twitter: akpradhn # add your Twitter handle
+facebook: akpradhn # add your Facebook handle
+github: akpradhn # add your Github handle
+linkedin: akpradhn # add your Linkedin handle
+email: akpradhn@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier

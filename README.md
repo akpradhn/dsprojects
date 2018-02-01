@@ -67,9 +67,9 @@ https://www.youtube.com/watch?v=HLU_D8ZiqRs&t=251s
 Using pip i.e. "python3.5 -m pip install nltk"
 
 
-
-## Theme used for the website
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+### Theme used for the website
+- Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+- [How to Install Jekyll Themes? - Tutorial 12](https://www.youtube.com/watch?v=bty7LHm14CA)
 
 ### License
 

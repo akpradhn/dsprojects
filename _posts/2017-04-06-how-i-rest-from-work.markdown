@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Clustering Documents and Finding Top 5 Common Terms From Each Cluster
-date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+date: 2018-02-06 13:32:20 +0300
+description: How to combine (creating a cluster) similar research articles for a topic and collecting most common terms in those similar articles ?. # Add post description (optional)
 img: Document-Cluster.png # Add image post (optional)
 tags: [KMeans, Document Clustering, Document Similarity, TFIDF]
 ---
-How to combine (creating a cluster) similar research articles for a topic and collecting most common terms in those similar documents. in this post we will scrape top 10 research articles from pubMed data base for 'Asthma'. We will use different criterial to compare the similarity level among these Dosuments. We will also determine the best possible number of cluster (K) possible for these 10 documents. Then We will cluster them using (K-Means Algorith) and find most common words from these cluster.  
+How to combine (creating a cluster) similar research articles for a topic and collecting most common terms in those similar articles ?. in this post we will scrape top 10 research articles from pubMed data base for 'Asthma'. We will use different criterial to compare the similarity level among these Dosuments. We will also determine the best possible number of cluster (K) possible for these 10 documents. Then We will cluster them using (K-Means Algorith) and find most common words from these cluster.  
 
 ### Objective : Cluster Documents and find top 5 common term from each cluster.
 

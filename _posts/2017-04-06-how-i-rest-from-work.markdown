@@ -72,8 +72,7 @@ Its clearly upto the choice of user to determine the criteria to asses the simil
 
 Determining Best number of Clusters.  
 
-![Number of Cluster ]({{site.baseurl}}/_posts/output_25_0.png)
-![png](output_25_0.png)
+![NumberofCluster]({{site.baseurl}}/assets/img/output_24_0.png)
 
 The following clusters are assigned to each documents.
 

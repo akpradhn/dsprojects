@@ -82,8 +82,9 @@ Determining Best number of Clusters.
 
 The following clusters are assigned to each documents.
 
-|-----------|---------------------|
+
 | Cluster   | Absracts            |
+|-----------|---------------------|
 | Cluster 0 | Abstract 5,9 and 10 |
 | Cluster 1 | Abstract 3          |
 | Cluster 2 | Abstract 1,2 and 6  |
@@ -91,11 +92,6 @@ The following clusters are assigned to each documents.
 | Cluster 4 | Abstract 7          |
 | Cluster 5 | Abstract 4          |
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
     Top terms per cluster:
     Cluster 0:

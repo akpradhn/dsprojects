@@ -5,7 +5,7 @@ This port folio enlist different data science practice problems availale over In
 #### Author: Amit Kumar Pradhan
 
 
-## Project 1 : BigMart Sales Prediction
+## Project 1 : [BigMart Sales Prediction](https://github.com/akpradhn/IAGems/tree/portfolio/Projects/BigMartSalesPrediction)
 
   ### Problem Statements :
   The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
@@ -23,13 +23,13 @@ This port folio enlist different data science practice problems availale over In
   #### Program language Used :
   R 3.4 was used
 
-  [BigMartSalesPrediction](https://github.com/akpradhn/IAGems/tree/portfolio/Projects/BigMartSalesPrediction)
+  
   
   #### Project Source:
   Analytics Vidya Hacathon Practice Problems
 
 
-## Project 2 : Predicting Poverty in the United States 
+## Project 2 : [Predicting Poverty in the United States](https://github.com/akpradhn/IAGems/tree/portfolio/Projects/PredictPovertyInTheUS)
 
   #### Problem Statements :
   
@@ -41,13 +41,13 @@ This port folio enlist different data science practice problems availale over In
   
   #### Program language Used :
   
-  #### Code Repository
-  [PredictPovertyInTheUS](https://github.com/akpradhn/IAGems/tree/portfolio/Projects/PredictPovertyInTheUS)
+
+  
   ### Project Source:
   Data Science Capston Challange
 
 
-## Project 3 : CLuster Similar Articles and find Top 5 temrms 
+## Project 3 :[CLuster Similar Articles and find Top 5 temrms](https://github.com/akpradhn/IAGems/tree/master/Projects/PubmedClusterAnalysis)
 
   #### Problem Statements : 
   Collects top 10 search result for word 'Asthma' and cluster the similar article from pubmed based on the similarity index of the abstracts. Then find 5 most common terms from these clusters
@@ -59,7 +59,7 @@ This port folio enlist different data science practice problems availale over In
   python 3.5
   
   #### Code Repository
-  [PubMedCluster](https://github.com/akpradhn/IAGems/tree/master/Projects/PubmedClusterAnalysis)
+  
   
 
 ## KeyWords for the port 

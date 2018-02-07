@@ -80,7 +80,6 @@ Cluster 3 : Abstract 8
 Cluster 4 : Abstract 7
 Cluster 5 : Abstract 4
 
-
     Top terms per cluster:
     Cluster 0:
     ----------------

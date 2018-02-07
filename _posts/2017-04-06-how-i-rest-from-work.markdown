@@ -41,11 +41,6 @@ import matplotlib.pyplot as plt # Visualization
 ```
 
 
-```python
-# Options Settings
-pd.set_option('display.max_columns', None) # To Print Every column of a data frame
-```
-
 ### 1. Collecting Data
 
 For this mini project, we are collecting abstracts from first 10 search result for the query 'Asthma' in PubMed database using the API provided on the website. The complete code is available below..

@@ -10,6 +10,8 @@ How to combine (creating a cluster) similar research articles for a topic and co
 
 [Detail Code](https://github.com/akpradhn/IAGems/blob/master/Projects/PubmedClusterAnalysis/DocumentClustering7_02_18.md)
 
+[Python Code](https://github.com/akpradhn/IAGems/tree/master/Projects/PubmedClusterAnalysis)
+
 ### Objective : Cluster Documents and find top 5 common term from each cluster.
 
 Topic Covered
@@ -70,6 +72,7 @@ Its clearly upto the choice of user to determine the criteria to asses the simil
 
 Determining Best number of Clusters.  
 
+![Number of Cluster ]({{site.baseurl}}/_posts/output_25_0.png)
 ![png](output_25_0.png)
 
 The following clusters are assigned to each documents.

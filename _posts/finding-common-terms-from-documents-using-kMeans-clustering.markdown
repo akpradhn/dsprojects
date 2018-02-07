@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How I Rest From Work
-date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
-tags: [Holidays, Hawaii]
+title: Finding Common Terms from Documents Using KMeans-Clustering
+date: 2018-02-07 13:32:20 +0300
+description: In this Data project we are going to find similarity between top 10 search result of research articles for a topic. We will be using Kmean Clustering to cluster these documents and extract top 5 common terms used in there artivles. . # 
+img: Document-Cluster.png # Add image post (optional)
+tags: [KMeans, Text-Mining,TextClustering]
 ---
 
 

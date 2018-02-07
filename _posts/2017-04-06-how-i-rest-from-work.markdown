@@ -69,9 +69,10 @@ Its clearly upto the choice of user to determine the criteria to asses the simil
 ### 4. K-Mean Clustering
 
 Determining Best number of Clusters.  
-![png](output_24_0.png)
 
-The following Cluster is assigned to each documents.
+![png](output_25_0.png)
+
+The following clusters are assigned to each documents.
 
 Cluster 0 : Abstract 5,9 and 10
 Cluster 1 : Abstract 3
@@ -148,16 +149,9 @@ Cluster 5 : Abstract 4
 
 * [kmeans text clustering](https://pythonprogramminglanguage.com/kmeans-text-clustering/)
 
-* http://ethen8181.github.io/machine-learning/clustering_old/tf_idf/tf_idf.html
-
 * [Different types of similarity measures](http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
 
 * [Finding Number Of Cluster : Wikipedia](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BGYqlkK3tQ3%2Bb3VWBSvgP8Q%3D%3D)
 * [K-means clustering: how it works - Youtube](https://www.youtube.com/watch?v=_aWzGGNrcic&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BGYqlkK3tQ3%2Bb3VWBSvgP8Q%3D%3D)
 * [KMeans++ Explained](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 
-
-
-```python
-
-```

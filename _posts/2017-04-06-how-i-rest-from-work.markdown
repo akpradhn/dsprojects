@@ -54,6 +54,12 @@ Asthma is a heterogeneous clinical syndrome characterized by airway inflammation
 
 Vector can be a Countervector or a TFIDF Vector
 
+Vector representation of Document in terms of Term Frequency
+![TF]({{site.baseurl}}/assets/img/Doc2vec.png)
+
+Vector representation of Document in terms of (Term Frequency * Inverse Document Frequency) i.e. (TF-IDF)
+![TFIDF]({{site.baseurl}}/assets/img/Doc2vec1.png)
+
 ### 3.1 Lets understand how TFIDF is calculated.
 
 The Clean corpus containing 408 words wherein the word 'adult' appears 3 times.

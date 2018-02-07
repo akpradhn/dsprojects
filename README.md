@@ -2,7 +2,7 @@
 # Data Science Projects
 This port folio enlist different data science practice problems availale over Internet/Hacathons/MOOCS etc.  
 
-### Author: Amit Kumar Pradhan
+#### Author: Amit Kumar Pradhan
 
 
 ## Project 1 : BigMart Sales Prediction
@@ -62,30 +62,8 @@ This port folio enlist different data science practice problems availale over In
   [PubMedCluster](https://github.com/akpradhn/IAGems/tree/master/Projects/PubmedClusterAnalysis)
   
 
-
-
-
 ## KeyWords for the port 
 * Supervised Problems
 * Neural Network
 * Sales Prediction
 * K-Means Clustering
-
-### Editor : Sublime Text 
-
-Source : Integrate sublime text with git 
-https://www.youtube.com/watch?v=HLU_D8ZiqRs&t=251s
-
-### Python Libraries
-- Install nltk in mac
-Using pip i.e. "python3.5 -m pip install nltk"
-
-
-### Theme used for the website
-- Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
-- [How to Install Jekyll Themes? - Tutorial 12](https://www.youtube.com/watch?v=bty7LHm14CA)
-
-### License
-
-GNU General Public License v3.0
-

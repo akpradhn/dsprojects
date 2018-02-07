@@ -81,21 +81,21 @@ Determining Best number of Clusters.
 ![Macbook]({{site.baseurl}}/assets/img/output_24_0.png)
 
 The following clusters are assigned to each documents.
-|-------|----------|
-|Cluster| Absracts|
-|-------|----------|
-|Cluster 0 | Abstract 5,9 and 10|
-|-------|----------|
-|Cluster 1 | Abstract 3|
-|-------|----------|
-|Cluster 2 | Abstract 1,2 and 6|
-|-------|----------|
-|Cluster 3 | Abstract 8|
-|-------|----------|
-|Cluster 4 | Abstract 7|
-|-------|----------|
-|Cluster 5 | Abstract 4|
-|-------|----------|
+
+|-----------|---------------------|
+| Cluster   | Absracts            |
+| Cluster 0 | Abstract 5,9 and 10 |
+| Cluster 1 | Abstract 3          |
+| Cluster 2 | Abstract 1,2 and 6  |
+| Cluster 3 | Abstract 8          |
+| Cluster 4 | Abstract 7          |
+| Cluster 5 | Abstract 4          |
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
     Top terms per cluster:
     Cluster 0:

@@ -54,10 +54,10 @@ Asthma is a heterogeneous clinical syndrome characterized by airway inflammation
 
 Vector can be a Countervector or a TFIDF Vector
 
-Vector representation of Document in terms of Term Frequency
+Vector representation of abstract in terms of Term Frequency
 ![TF]({{site.baseurl}}/assets/img/Doc2vec.png)
 
-Vector representation of Document in terms of (Term Frequency * Inverse Document Frequency) i.e. (TF-IDF)
+Vector representation of abstract in terms of (Term Frequency * Inverse Document Frequency) i.e. (TF-IDF)
 ![TFIDF]({{site.baseurl}}/assets/img/Doc2vec1.png)
 
 ### 3.1 Lets understand how TFIDF is calculated.
@@ -81,13 +81,21 @@ Determining Best number of Clusters.
 ![Macbook]({{site.baseurl}}/assets/img/output_24_0.png)
 
 The following clusters are assigned to each documents.
-
-Cluster 0 : Abstract 5,9 and 10
-Cluster 1 : Abstract 3
-Cluster 2 : Abstract 1,2 and 6
-Cluster 3 : Abstract 8
-Cluster 4 : Abstract 7
-Cluster 5 : Abstract 4
+|-------|----------|
+|Cluster| Absracts|
+|-------|----------|
+|Cluster 0 | Abstract 5,9 and 10|
+|-------|----------|
+|Cluster 1 | Abstract 3|
+|-------|----------|
+|Cluster 2 | Abstract 1,2 and 6|
+|-------|----------|
+|Cluster 3 | Abstract 8|
+|-------|----------|
+|Cluster 4 | Abstract 7|
+|-------|----------|
+|Cluster 5 | Abstract 4|
+|-------|----------|
 
     Top terms per cluster:
     Cluster 0:
